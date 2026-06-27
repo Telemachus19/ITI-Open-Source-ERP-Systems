@@ -4,8 +4,6 @@
     'version': '1.0.0',
     'summary': 'Module for managing a hospital system including clinics.',
     'description': """
-Hospital System Module
-======================
 This module provides a system to manage clinics, including opening and closing times.
     """,
     'category': 'Healthcare',
